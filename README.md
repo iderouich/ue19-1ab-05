@@ -8,5 +8,5 @@ et affiche une blague aléatoire dans le terminal.
 1. Cloner ce dépôt :
 
    ```bash
-   git clone https://github.com/<ton-user>/ue19-1ab-02.git
+   git clone https://github.com/iderouich/ue19-1ab-02.git
    cd ue19-1ab-02
